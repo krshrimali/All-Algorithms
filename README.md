@@ -6,6 +6,7 @@ Implementations and Tutorials on Algorithms for Problem Solving
 1. **Competitive Programming**
     1. <a href="https://github.com/krshrimali/Algorithms/tree/master/Competitive-Programming/3D-Variants">Graham Scan for Convex Hull</a>.
     2. <a href="https://github.com/krshrimali/Algorithms/tree/master/Competitive-Programming/Strings/FindingPatterns">Strings: Finding Patterns (Rabin Karp and Knuth Morris Pratt)</a>.
+    3. <a href="https://github.com/krshrimali/Algorithms/tree/master/Competitive-Programming/Convex-Hull">Convex Hull</a>
 2. **Computer Vision**
     1. <a href="https://github.com/krshrimali/Algorithms/tree/master/Computer-Vision-Algorithms/GANs">General Adversarial Networks: GAN-CLS</a>.
     2. <a href="https://github.com/krshrimali/Algorithms/tree/master/Computer-Vision-Algorithms/Object-Detection">Object Detection (YOLOv3)</a>.
@@ -16,6 +17,7 @@ Implementations and Tutorials on Algorithms for Problem Solving
     3. <a href="https://github.com/krshrimali/Algorithms/blob/master/Machine-Learning-Algorithms/ROC-Curves/roc_curve.py">ROC Curves</a>
 4. **Data Analysis and Science**
     1. <a href="https://github.com/krshrimali/Algorithms/tree/master/Data-Science/Cleaning">Data Cleaning</a>.
-
-
-TO DO: **Deep Learning** Algorithms
+5. **Deep-Learning**
+    1. <a href="https://github.com/krshrimali/Algorithms/tree/master/Deep-Learning/GANs">Generative Adversarial Networks</a>
+    2. <a href="https://github.com/krshrimali/Algorithms/tree/master/Deep-Learning/batch-norm">Batch Normalization</a>
+    3. <a href="https://github.com/krshrimali/Algorithms/tree/master/Deep-Learning/Human-Acitivity-Recognition">Human Acitivity Recognition</a> (To Do)
