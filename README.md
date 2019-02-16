@@ -15,6 +15,7 @@ Implementations and Tutorials on Algorithms for Problem Solving
     1. <a href="https://github.com/krshrimali/Algorithms/tree/master/Machine-Learning-Algorithms/Decision-Trees">Handling missing values in Decision Trees</a>.
     2. <a href="https://github.com/krshrimali/Algorithms/blob/master/Machine-Learning-Algorithms/Prob_pred.py">Scoring Probability Predictions in Python</a>.
     3. <a href="https://github.com/krshrimali/Algorithms/blob/master/Machine-Learning-Algorithms/ROC-Curves/roc_curve.py">ROC Curves</a>
+    4. <a href="https://github.com/krshrimali/Algorithms/blob/master/Machine-Learning-Algorithms/Introduction-to-NumPy.pdf">Introduction to NumPy and Plotting</a>
 4. **Data Analysis and Science**
     1. <a href="https://github.com/krshrimali/Algorithms/tree/master/Data-Science/Cleaning">Data Cleaning</a>.
 5. **Deep-Learning**
