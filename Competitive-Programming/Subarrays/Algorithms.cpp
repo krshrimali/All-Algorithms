@@ -5,23 +5,15 @@
 #include "Algorithms.h"
 #include <iostream>
 
-int main() {
-    int N;
-    std::cout << "Length of array: ";
-    std::cin >> N;
-    std::vector<int> arr = {};
+int Algorithms::linear_search(std::vector<int> arr, int num) {
+    // create iterator
+    std::vector<int>::iterator it;
 
-    std::cout << "Now enter the elements of the array." << std::endl;
-    for(int i=0; i<N; i++) {
-        int temp;
-        std::cin >> temp;
-        arr.push_back(temp);
+    // iterate through the array
+    for(it = arr.begin(); it != arr.end(); ++it) {
+        if(*it == num) {
+            return it - arr.begin();
+        }
     }
-
-    Algorithms alg;
-    int toFind;
-    std::cout << "Value you want to search: ";
-    std::cin >> toFind;
-    int find = alg.linear_search(arr, toFind);
-    find == -1 ? std::cout << "Not found" << std::endl : std::cout << "Found at: " << find << std::endl;
+    return -1;
 }

@@ -1,2 +1,2 @@
 
-add_executable(main Algorithms.cpp)
+add_executable(main main.cpp Algorithms.cpp)
