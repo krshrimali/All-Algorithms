@@ -14,4 +14,7 @@ how lazy I am. :P #EmbarrasingMyself
 2. **Updates: 28th December 2018**
     * Finish Convex Hull Problems*
 
+**Notes**:
 
+- I've started Coding Blocks C++ Course. The rest of the algorithms will be according to the syllabus and content there.
+- I'll be maintaining `CMakeLists.txt` for each Challenge and Codes.

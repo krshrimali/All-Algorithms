@@ -1,0 +1,1 @@
+add_executable(read Readstring.h Readstring.cpp read.cpp)
