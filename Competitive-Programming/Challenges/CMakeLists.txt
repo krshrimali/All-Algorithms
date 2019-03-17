@@ -1,1 +1,2 @@
+add_executable(subarray daily_code_subarray.cpp)
 add_executable(test Rainwater_Trapping.cpp)

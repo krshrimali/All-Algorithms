@@ -16,5 +16,10 @@ how lazy I am. :P #EmbarrasingMyself
 
 **Notes**:
 
-- I've started Coding Blocks C++ Course. The rest of the algorithms will be according to the syllabus and content there.
-- I'll be maintaining `CMakeLists.txt` for each Challenge and Codes.
+## Update
+
+- I've started a couple of things to learn "Efficient C++" and it's Design Patterns. I'll be following following books and resources:
+    - Coding Blocks C++ Course.
+    - More Effective C++ by Scott Meyers (more advanced) 
+
+- I'll be maintaining `CMakeLists.txt` for each Challenge and Codes. Trying to follow and learn CMake while going through the resources.

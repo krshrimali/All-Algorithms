@@ -6,6 +6,8 @@
 #define PROJECT_READSTRING_H
 
 #include <iostream>
+#include <cstring>
+
 using namespace std;
 
 class Readstring {
@@ -25,5 +27,19 @@ public:
     char* returnWord();
 };
 
+// Read string using C library: #include <cstring>
+class Readstring_c {
+private:
+    int size_;
+public:
+    // explicit to avoid implicit conversions
+    explicit  Readstring_c(int streamsize=1000) {
+        size_ = streamsize;
+    }
+    int returnSize() {
+        return size_;
+    }
+    string returnString();
+};
 
 #endif //PROJECT_READSTRING_H

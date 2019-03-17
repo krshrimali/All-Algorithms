@@ -21,3 +21,9 @@ char* Readstring::returnWord() {
     cin >> arr;
     return arr;
 }
+
+string Readstring_c::returnString() {
+    string s;
+    getline(cin, s);
+    return s;
+}

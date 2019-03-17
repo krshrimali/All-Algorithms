@@ -7,8 +7,12 @@
 
 using namespace std;
 
-int main() {
+/* @brief: Usage function to read string in way of char*. Faciliates reading Para/Line/Word.
+ * Parameters: None
+ * Returns: None
+ */
 
+void read_charstart() {
     int type;
     cout << "Type: (0) - Para, (1) - Line, (2) - Word" << endl;
     cin >> type;
@@ -61,3 +65,18 @@ int main() {
     }
 }
 
+/* @brief: Usage Function - Uses #include <cstring> library to use string class
+ * Parameters: None
+ * Returns: None
+ */
+void read_cstring() {
+    Readstring_c type;
+    string s = type.returnString();
+    cout << "Read string: " << s << endl;
+}
+
+int main() {
+    //TODO: Better way of showing these usage functions?
+    read_charstart();
+    read_cstring();
+}
