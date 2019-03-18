@@ -1,0 +1,1 @@
+add_executable(example_aliases example_aliases.cpp)
