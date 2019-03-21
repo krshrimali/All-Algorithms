@@ -40,8 +40,8 @@
         - User-defined POD Types:
             - `struct bar { int a; double b; };`
             - `bar b { 42, 1.2 };`
-    - Using `std::initializer_list<T>`:
-        - 
+    - **Using `std::initializer_list<T>`**
+     
         ```cpp
         class foo {
             int a;
