@@ -8,7 +8,7 @@
     - Example: mentioned in `example_aliases.cpp`.
 
 2. **Understanding Uniform Initialization**
-    - (a.k.a) Braze Initialization method
+    - (a.k.a) Brace Initialization method
     - Another method: Direct Initialization Method:
         - `std::string sample_1("sample string"); // explicitly using constructor`
         - `std::string sample_2 = "test"; // using copy initialization`
