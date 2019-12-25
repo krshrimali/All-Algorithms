@@ -23,3 +23,7 @@ how lazy I am. :P #EmbarrasingMyself
     - More Effective C++ by Scott Meyers (more advanced) 
 
 - I'll be maintaining `CMakeLists.txt` for each Challenge and Codes. Trying to follow and learn CMake while going through the resources.
+
+## Update
+
+- I've started reading this book: https://cses.fi/book/book.pdf
